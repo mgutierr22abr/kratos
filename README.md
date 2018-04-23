@@ -1,2 +1,2 @@
 # kratos
-Ejemplo
+Ejemplo simple de aplicación web
